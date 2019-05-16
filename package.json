@@ -1,0 +1,30 @@
+{
+  "name": "koa-basic",
+  "version": "1.0.0",
+  "description": "Basic auth header parse for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quick-sort/koa-basic.git"
+  },
+  "keywords": [
+    "basic",
+    "auth",
+    "koa"
+  ],
+  "author": "quicksort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quick-sort/koa-basic/issues"
+  },
+  "homepage": "https://github.com/quick-sort/koa-basic#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "basic-auth": "^2.0.1"
+  }
+}
