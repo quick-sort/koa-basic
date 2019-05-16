@@ -1,6 +1,6 @@
 {
   "name": "koa-basic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic auth header parse for koa",
   "main": "index.js",
   "scripts": {
